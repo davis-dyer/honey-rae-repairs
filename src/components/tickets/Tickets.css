@@ -1,0 +1,10 @@
+tickets {
+    display: flex;
+    flex-direction: column;
+}
+
+.ticket {
+    background-color: lightblue;
+    border: 1px dotted darkmagenta;
+    margin: 10px;
+}
